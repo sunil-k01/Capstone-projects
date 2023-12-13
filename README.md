@@ -38,10 +38,4 @@ Explore the mystical artifacts within this repository:
 - 🎥 **Videos:** Witness the magic behind the chosen five questions.
 - 📜 **ProjectDetails:** Secrets revealed about the challenge, evaluation criteria, and project description.
 
-## 🚧 Under Construction
-
-Our journey doesn't end here! This repository is a living testament to my continuous evolution. Stay tuned as I unveil more projects from the AlmaBetter Full Stack Data Science course, each a unique chapter in this CodeStorm Odyssey.
-
-Feel the magic, embrace the challenge, and let the CodeStorm Odyssey unfold!
-
 **May your code be bug-free and your videos enchanting!** ✨
