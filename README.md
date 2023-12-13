@@ -8,7 +8,7 @@ Welcome to the CodeStorm Odyssey – where programming prowess meets creative ex
 
 Buckle up as we embark on an epic journey through the CodeStorm Challenge by AlmaBetter. This coding odyssey is not just about solving 30 intricate coding questions but crafting an adventure of algorithms, problem-solving, and mesmerizing video presentations.
 
-![CodeStorm Challenge](code-monitor.jpg)
+![CodeStorm Challenge](.code-monitor.jpeg)
 
 ## 🚀 The Challenge
 
